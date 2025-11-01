@@ -31,7 +31,10 @@ Lately I’ve been exploring how AI can be used in everyday workflows and person
 - Teaching and explaining problems to others helps me learn.
 - And I enjoy competitive coding
 
-![Codewars](https://github.r2v.ch/codewars?user=DevUn-known&stroke=COLOR)
+<p align="left">
+  <img src="https://badge.codewars.com/api/v1/users/AnwinJ/badges/large" width="300" />
+</p>
+
 
 ---
 
