@@ -29,6 +29,9 @@ Lately I’ve been exploring how AI can be used in everyday workflows and person
 - I enjoy making tools that feel smooth and simple to use.
 - I like understanding how systems fit together.
 - Teaching and explaining problems to others helps me learn.
+- And I enjoy competitive coding
+
+![Codewars](https://github.r2v.ch/codewars?user=DevUn-known&stroke=COLOR)
 
 ---
 
