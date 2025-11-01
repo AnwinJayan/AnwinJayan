@@ -30,10 +30,8 @@ Lately I’ve been exploring how AI can be used in everyday workflows and person
 - I like understanding how systems fit together.
 - Teaching and explaining problems to others helps me learn.
 - And I enjoy competitive coding
-
-<p align="left">
-  <img src="https://badge.codewars.com/api/v1/users/AnwinJ/badges/large" width="300" />
-</p>
+  
+![Codewars](https://github.r2v.ch/codewars?user=AnwinJ&stroke=COLOR)
 
 
 ---
