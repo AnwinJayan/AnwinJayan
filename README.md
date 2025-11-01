@@ -14,7 +14,7 @@ Lately I’ve been exploring how AI can be used in everyday workflows and person
 `Clerk` · `Cloudinary` · `LLMs`
 
 <p align="left">
-  <img src="https://skillicons.dev/icons?i=react,nodejs,fastapi,express,mongodb,ts,tailwind,cloudinary,python" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=AnwinJayan&layout=compact&theme=tokyonight" height="150" />
 </p>
 
 ---
