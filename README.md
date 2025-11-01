@@ -1,7 +1,7 @@
 # 👋 Hi, I'm Anwin
 
-I build full-stack applications and small tools that people can actually use.  
-Lately I've been exploring ways to integrate AI into everyday workflows and learning systems.
+I like building things, mostly full-stack apps and small tools that help me (and sometimes others) get things done.  
+Lately I’ve been exploring how AI can be used in everyday workflows and personal learning.
 
 ---
 
@@ -15,25 +15,27 @@ Lately I've been exploring ways to integrate AI into everyday workflows and lear
 
 ---
 
-### Some things I’ve built
+### 🗂 Some Things I’ve Built
 
 | Project | What it does |
-|--------|--------------|
-| **[Autocram](https://github.com/AnwinJayan/autocram)** | An offline study and recall tool. |
-| **[ToDoPlus](https://github.com/AnwinJayan/to-do-plus)** | A task manager with themes and profiles. |
-| **[Tale Gen](https://github.com/AnwinJayan/tale-gen)** | Generates short illustrated stories from prompts. |
+|-------|--------------|
+| **[Autocram](https://github.com/AnwinJayan/autocram)** | A study tool that works offline and helps with recall. |
+| **[ToDoPlus](https://github.com/AnwinJayan/to-do-plus)** | A clean task manager with themes and profiles. |
+| **[Tale Gen](https://github.com/AnwinJayan/tale-gen)** | Turns prompts into illustrated short stories. |
 
 ---
 
-### About me
-- I like making interfaces and workflows that feel simple and intentional.
-- I care about understanding how systems work end to end.
-- I learn best by teaching and explaining.
-- I also solve coding challenges sometimes:
+### 🧭 A bit about me
+- I enjoy making tools that feel smooth and simple to use.
+- I like understanding how systems fit together.
+- Teaching and explaining problems to others helps me learn.
+- And I enjoy competitive coding.
 
   <img src="https://github.r2v.ch/codewars?user=AnwinJ&stroke=COLOR" width="300" />
 
+
+
 ---
 
-### Connect
+### 📮 Connect
 [LinkedIn](https://www.linkedin.com/in/anwin-jayan-644aa5254/) • [Portfolio](https://portfolio.appsbyanwin.live)
