@@ -1,17 +1,13 @@
-<p align="center">
-  <img src="https://readme-typing-svg.demolab.com/?lines=Hi+I'm+Anwin;I+build+full-stack+and+AI+projects;Always+learning+new+things&center=true&width=450&height=45" />
-</p>
-
 # 👋 Hi, I'm Anwin
 
-I like building things — mostly full-stack apps and small tools that help me (and sometimes others) get things done.  
+I like building things, mostly full-stack apps and small tools that help me (and sometimes others) get things done.  
 Lately I’ve been exploring how AI can be used in everyday workflows and personal learning.
 
 ---
 
-### 🔧 What I use
+### What I use
 `React` · `Express` · `FastAPI` · `MongoDB` · `TailwindCSS`  
-`Clerk` · `Cloudinary` · `LLMs`
+`Clerk` · `LLMs`
 
 <p align="left">
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=AnwinJayan&layout=compact&theme=tokyonight" height="150" />
@@ -33,13 +29,6 @@ Lately I’ve been exploring how AI can be used in everyday workflows and person
 - I enjoy making tools that feel smooth and simple to use.
 - I like understanding how systems fit together.
 - Teaching and explaining problems to others helps me learn.
-
----
-
-### 📊 Stats (because they're kinda fun)
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=AnwinJayan&show_icons=true&theme=transparent" height="150" />
-</p>
 
 ---
 
